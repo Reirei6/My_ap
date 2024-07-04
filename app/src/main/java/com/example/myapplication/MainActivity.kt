@@ -30,6 +30,9 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 class User() {
+
+fun main() {
 
 }
