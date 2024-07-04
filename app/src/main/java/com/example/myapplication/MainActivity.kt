@@ -33,3 +33,7 @@ class MainActivity : ComponentActivity() {
 fun main() {
 
 }
+
+class Screen() {
+
+}
